@@ -1,0 +1,7 @@
+.fade {
+    margin: 3%;
+    padding: 50px;
+    background-color: gray;
+    opacity: 1;
+    min-height:3px;
+  }
